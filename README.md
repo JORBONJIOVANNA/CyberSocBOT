@@ -11,5 +11,5 @@ python3 -m pip install -U nextcord
 Once installed then use:
 
 ```bash
-git clone 
+git clone https://github.com/JORBONJIOVANNA/CyberSocBOT.git
 ```
