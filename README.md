@@ -5,7 +5,7 @@ To get started first install:
 
 ```bash
 sudo apt install libffi-dev libnacl-dev python3-dev pip
-python3 -m pip install -U nextcord
+python3 -m pip install -U nextcord captcha random-word
 ```
 
 Once installed then use:
