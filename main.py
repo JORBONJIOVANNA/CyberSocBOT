@@ -4,7 +4,6 @@ import os.path
 import sys
 from captcha.image import ImageCaptcha
 from random_word import RandomWords
-<<<<<<< HEAD
 import re
 import random
 from classes import Captcha, Rule
